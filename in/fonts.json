@@ -1,0 +1,125 @@
+[{
+  "id": "range-0",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["00A9", "00A9"]
+},
+{
+  "id": "range-1",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["00AE", "00AE"]
+},
+{
+  "id": "range-2",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["FE0F", "FE0F"]
+},
+{
+  "id": "range-3",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2000", "206F"]
+},
+{
+  "id": "range-4",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["20D0", "20FF"]
+},
+{
+  "id": "range-5",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2100", "214F"]
+},
+{
+  "id": "range-6",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2190", "21FF"]
+},
+{
+  "id": "range-7",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2300", "23FF"]
+},
+{
+  "id": "range-8",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2460", "24FF"]
+},
+{
+  "id": "range-9",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["25A0", "25FF"]
+},
+{
+  "id": "range-10",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2600", "26FF"]
+},
+{
+  "id": "range-11",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2700", "27BF"]
+},
+{
+  "id": "range-12",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2900", "297F"]
+},
+{
+  "id": "range-13",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["2B00", "2BFF"]
+},
+{
+  "id": "range-14",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["3000", "303F"]
+},
+{
+  "id": "range-15",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["3200", "32FF"]
+},
+{
+  "id": "range-16",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F000", "1F02F"]
+},
+{
+  "id": "range-17",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F0A0", "1F0FF"]
+},
+{
+  "id": "range-18",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F100", "1F1FF"]
+},
+{
+  "id": "range-19",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F200", "1F2FF"]
+},
+{
+  "id": "range-20",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F300", "1F5FF"]
+},
+{
+  "id": "range-21",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F600", "1F64F"]
+},
+{
+  "id": "range-22",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F680", "1F6FF"]
+},
+{
+  "id": "range-23",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["1F900", "1F9FF"]
+},
+{
+  "id": "range-24",
+  "filename": "./in/TwitterColorEmoji-SVGinOT.ttf",
+  "unicode_range": ["E0000", "E007F"]
+}]
